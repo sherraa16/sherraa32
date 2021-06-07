@@ -1,0 +1,29 @@
+.sherraa{
+    background-image: url(../img/Без\ названия.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sherraa3:hover{
+    background-color: rgb(9, 17, 17);
+    transition: 1s;
+}
+.sherraa4{
+    padding-left: 28%;
+}
+.sherraa6{
+    border-radius: 50%;
+    
+}
+.bxs-star{
+    color: gold;
+    font-size: 25px;
+    
+}
+@media(max-width: 500px){
+    .sherraa{
+        flex-wrap: wrap;
+    }
+}
+.sherraa12{
+    display: inline-block;
+}
